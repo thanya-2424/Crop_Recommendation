@@ -52,12 +52,12 @@ cd Crop_Recommendation
 
 Run the app:
 
-If the app is built with Streamlit:
+The app is built with Streamlit:
 
 streamlit run app.py
 
 
-If it’s built with Flask:
+It’s built with Flask:
 
 python app.py
 
